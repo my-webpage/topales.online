@@ -1479,9 +1479,9 @@ a {
   margin-top: 3.5rem !important;
 }
 .cid-tMIyDcTAdL {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+  background-color: #edfcbc;
 }
 .cid-tMIyDcTAdL .row {
   flex-direction: row-reverse;
@@ -3326,9 +3326,9 @@ a {
   object-fit: contain;
 }
 .cid-tMIvObBh0y {
-  padding-top: 6rem;
+  padding-top: 10rem;
   padding-bottom: 6rem;
-  background-color: #af9fff;
+  background-color: #3c7360;
 }
 .cid-tMIvObBh0y .mbr-overlay {
   background-color: #ffffff;
@@ -3369,7 +3369,7 @@ a {
   object-fit: cover;
 }
 .cid-tMIvObBh0y .row {
-  background: #ffffff;
+  background: #edfcbc;
   overflow: hidden;
   margin: 0;
 }
@@ -3398,7 +3398,7 @@ a {
   color: #ffffff;
 }
 .cid-tMIugfOJMv {
-  padding-top: 90px;
+  padding-top: 135px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
